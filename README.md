@@ -4,7 +4,4 @@ Class Blog
 
 [Hydra on Deck](Hydradotwav.md)
 
-[HydraNewNew](DatNewNewHydra.md)
-
-
-
+[Dat New New Hydra & group Project](DatNewNewHydra.md)
