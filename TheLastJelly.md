@@ -14,5 +14,7 @@ After that it was mostly all gravy, the most of the tech on the charged movement
 
 The tech for states came from the cat example you gave in class and the questions I asked about states basically being true false statements but simpler. 
 
+My method to get the background to change was by using lerp which lets the color shift between a start color and end color kind of providing a gradient based on height determined by settings
+
 Something i may consider adding is to have an additional state where the jelly fish slowly travels upwards without pressing anything.
 
