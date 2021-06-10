@@ -15,6 +15,8 @@ After that it was mostly all gravy, the most of the tech on the charged movement
 The tech for states came from the cat example you gave in class and the questions I asked about states basically being true false statements but simpler. ![chrome_2021-06-09_16-52-55.png]({{site.baseurl}}/chrome_2021-06-09_16-52-55.png)
 
 
-My method to get the background to change was by using "lerp" function which lets the color shift between a start color and end color kind of providing a gradient based on height determined by settings. I had used lerp for my flower game to get a gradatiion that changed based on time of day, in this case the gradation changes based on height. 
+My method to get the background to change was by using "lerp" function which lets the color migrate from a start color to an end color which was then set to change based on position of player within the sketch. I realized I had used lerp for my flower game to get a gradatiion that changed based on time of day, in this case the gradation changes based on height. ![chrome_2021-06-09_23-17-32.png]({{site.baseurl}}/chrome_2021-06-09_23-17-32.png)
+
 
 Something i may consider adding is to have an additional state where the jelly fish slowly travels upwards without pressing anything.
+![chrome_2021-06-09_23-18-48.png]({{site.baseurl}}/chrome_2021-06-09_23-18-48.png)
