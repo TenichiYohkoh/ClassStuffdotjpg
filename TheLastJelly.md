@@ -1,4 +1,4 @@
-##The Final Jelly
+**The Final Jelly**
 
 For this project/piece I wanted to use just about every bit of everything I learned in programming up to this point while doing my absolute best to be a way more efficient and avoid spaghetti code as much as I possibly can. At the same time the goal of this project is very similar to the goal of my previous project flower. To create a passive “game” that has an active element that the person experiencing the piece may elect to use or not. 
 With that I would say about 90% of the code I used in this project aside from the method to procedurally generate the fish came and a few other things from previous projects I’ve worked on or have been involved with. IE movement, array splice etc. The First Challenge STAYING ORGANIZED!! And being efficient. (At Least i think I was efficient?)![chrome_2021-06-09_14-34-04.png]({{site.baseurl}}/chrome_2021-06-09_14-34-04.png)![chrome_2021-06-09_14-35-44.png]({{site.baseurl}}/chrome_2021-06-09_14-35-44.png)
